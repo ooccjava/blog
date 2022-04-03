@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ooccjava.github.io/blog/</id>
     <title>Gridea</title>
-    <updated>2022-04-03T14:02:09.013Z</updated>
+    <updated>2022-04-03T14:17:14.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ooccjava.github.io/blog/"/>
     <link rel="self" href="https://ooccjava.github.io/blog/atom.xml"/>
@@ -40,7 +40,7 @@
         <link href="https://ooccjava.github.io/blog/post/tai-yang-xi-you-duo-da/">
         </link>
         <updated>2022-04-03T04:17:59.000Z</updated>
-        <content type="html"><![CDATA[<p>太阳系有多大？有人认为太阳风与行星际介质交界的地方是太阳系的边界，美国NASA的两个飞船被认为已经于2012年8月飞出了太阳系，它离太阳有130天文单位(2X10^{10}km)。另外，有人认为太阳的引力范围之外才是太阳系以外。有一种认识是，太阳系的边界在1光年以外。</p>
+        <content type="html"><![CDATA[<p>太阳系有多大？有人认为太阳风与行星际介质交界的地方是太阳系的边界，美国NASA的两个飞船被认为已经于2012年8月飞出了太阳系，它离太阳有130天文单位(2X10^{10}km)。另外，有人认为太阳的引力范围之内都是太阳系的范围，例如可以认为太阳系的半径是1光年。我们知道，除太阳外,最靠近地球的恒星是半人马座的比邻星，距离地球39.9兆公里，或4.2光年。我们可以认为离开太阳1光年以外，就脱离了太阳引力范围，再往前走就进入其它恒星的引力范围了。</p>
 ]]></content>
     </entry>
     <entry>
