@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ooccjava.github.io/blog/</id>
     <title>宇宙线</title>
-    <updated>2022-04-04T16:19:57.385Z</updated>
+    <updated>2022-04-05T00:36:43.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ooccjava.github.io/blog/"/>
     <link rel="self" href="https://ooccjava.github.io/blog/atom.xml"/>
@@ -26,7 +26,7 @@
         <link href="https://ooccjava.github.io/blog/post/tian-wen-shang-chang-yong-de-chang-du-dan-wei/">
         </link>
         <updated>2022-04-03T11:15:56.000Z</updated>
-        <content type="html"><![CDATA[<p>天文上常用的单位有：1. 天文单位，astronamical unit (au)，太阳到地球的平均距离；2. 秒差距，parsec （pc，parallax second），1秒的角差对应1 au的弧长，半径即为1 pc； 3. 光年，al light-year</p>
+        <content type="html"><![CDATA[<p>天文上常用的单位有：1. 天文单位，astronamical unit (au)，太阳到地球的平均距离；2. 秒差距，parsec （pc，parallax second），它是这样定义的，如果1秒的角差对应1 au的弧长，那么半径即为1 pc； 3. 光年，al light-year，定义为光波一年走的距离。</p>
 <p>1 pc = 3.26 al = 206265 au = 3.09X10^{13} km<br>
 1 al = 0.307 pc = 63242 au = 9.46X10^{12} km<br>
 1 au = 4.85X10^{-6} pc = 1.58X10^{-5} al = 1.50X10^8 km<br>
